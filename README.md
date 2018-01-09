@@ -5,7 +5,7 @@ These files accompany the paper "No Evidence for Systematic White Matter Correla
 Files included:
 - 2018_NeuroClin_Moreau.pdf - Final, published version of the paper.
 - 2018_NeuroClin_Moreau_SM.pdf - Supplemental material.
-- Figures 1:6 - All high-definition figures included in the paper.
+- Figures 1:7 - All high-definition figures included in the main text.
 - LICENSE.md - License and rights to use/reuse content.
 
 Please cite as: Moreau, D., Wilson, A. J., McKay, N., Nihill, K., & Waldie, K. E. (2018). No Evidence for Systematic White Matter Correlates of Dyslexia and Dyscalculia. NeuroImage Clinical.
